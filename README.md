@@ -8,33 +8,33 @@ Script and data from: "xxxxx" by Babak Khavari, Alexandros Korkovelos, Andeas Sa
 Download repository directly or clone it to you designated local directory using:
 
 ```
-git clone https://github.com/alekordESA/agrodem.git
+git clone https://github.com/babakkhavari/Clustering.git
 ```
 
 **Requirements**
 
-The agrodem module (as well as all supporting scripts in this repo) have been developed in Python 3. We recommend installing [Anaconda's free distribution](https://www.anaconda.com/distribution/) as suited for your operating system. 
+The clustering module (as well as all supporting scripts in this repo) have been developed in Python 3. We recommend installing [Anaconda's free distribution](https://www.anaconda.com/distribution/) as suited for your operating system. 
 
-Once installed, open anaconda prompt and move to your local "agrodem" directory using:
-
-```
-> cd ..\agrodem
-```
-
-In order to be able to run the agrodem model (agrodem.ipynb) you should install all necessary packages. "agrodem_environment.ylm" contains all of these and can be easily set up by creating a new virtual environment using:
+Once installed, open anaconda prompt and move to your local "clustering" directory using:
 
 ```
-conda env create --name agrodem_run --file agrodem_environment.ylm
+> cd ..\clustering
 ```
 
-This might take a while.. When complete, activate the virtual environment using:
+In order to be able to run the clustering tool (main.ipynb and funcs.ipynb) you have to install all necessary packages. "full_project.yml" contains all of these and can be easily set up by creating a new virtual environment using:
 
 ```
-conda activate agrodem_run 
+conda env create --name clustering --file full_project.yml
 ```
 
-With the environment activated, you can now move to the agrodem directory and start a "jupyter notebook" session by simply typing:
+This might take some time. When complete, activate the virtual environment using:
 
 ```
-..\agrodem> jupyter notebook 
+conda activate clustering
+```
+
+With the environment activated, you can now move to the clustering directory and start a "jupyter notebook" session by simply typing:
+
+```
+..\clustering> jupyter notebook 
 ```
