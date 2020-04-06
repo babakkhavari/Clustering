@@ -43,8 +43,8 @@ With the environment activated, you can now move to the clustering directory and
 
 ## Credits
 
-**Conceptualization & Methodological review :** [Babak Khavari](https://github.com/babakkhavari), [Francesco Fuso-Nerini](https://github.com/kopegios) & [Alexandros Korkovelos](https://github.com/akorkovelos)<br />
+**Conceptualization & Methodological review :** [Babak Khavari](https://github.com/babakkhavari), [Francesco Fuso-Nerini](https://github.com/FFusoNerini) & [Alexandros Korkovelos](https://github.com/akorkovelos)<br />
 **Code development** [Babak Khavari](https://github.com/babakkhavari)
-**Review, Updates, Modifications:**TO BE UPDATED**
-**Supervision, Review and Advisory support:**TO BE UPDATED** <br />
-**Funding:** The World Bank (contract number: 7190531), [KTH](https://www.kth.se/en/itm/inst/energiteknik/forskning/desa/welcome-to-the-unit-of-energy-systems-analysis-kth-desa-1.197296)
+**Review, Updates, Modifications: **TO BE UPDATED**
+**Supervision, Review and Advisory support: **TO BE UPDATED** <br />
+**Funding:** The World Bank (contract number: xxxxxx), [KTH](https://www.kth.se/en/itm/inst/energiteknik/forskning/desa/welcome-to-the-unit-of-energy-systems-analysis-kth-desa-1.197296)
