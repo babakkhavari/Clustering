@@ -40,7 +40,12 @@ With the environment activated, you can now move to the clustering directory and
 ```
 ..\clustering> jupyter notebook 
 ```
+## Changelog
 
+## Resources
+Original dataset can be found here:
+
+Data descriptior can be found here:
 ## Credits
 
 **Conceptualization & Methodological review :** [Babak Khavari](https://github.com/babakkhavari), [Francesco Fuso-Nerini](https://github.com/FFusoNerini) & [Alexandros Korkovelos](https://github.com/akorkovelos)<br />
