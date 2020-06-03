@@ -43,7 +43,7 @@ With the environment activated, you can now move to the clustering directory and
 ## Changelog
 
 ## Resources
-Original dataset can be found here:
+Original dataset can be found here: https://data.mendeley.com/datasets/z9zfhzk8cr/ (version 5)
 
 Data descriptior can be found here:
 ## Credits
