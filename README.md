@@ -49,7 +49,7 @@ Data descriptior can be found here:
 ## Credits
 
 **Conceptualization & Methodological review :** [Babak Khavari](https://github.com/babakkhavari), [Francesco Fuso-Nerini](https://github.com/FFusoNerini) & [Alexandros Korkovelos](https://github.com/akorkovelos)<br />
-**Code development** [Babak Khavari](https://github.com/babakkhavari) & [Andreas Sahlberg](https://github.com/AndreasSahlberg) <br />
+**Code development** [Babak Khavari](https://github.com/babakkhavari) 
 **Review, Updates, Modifications: TO BE UPDATED**<br />
 **Supervision, Review and Advisory support:** [Francesco Fuso-Nerini](https://github.com/FFusoNerini) & [Mark Howells](https://orcid.org/0000-0001-6419-4957)<br />
 **Funding:** The World Bank (contract number: xxxxxx), [KTH](https://www.kth.se/en/itm/inst/energiteknik/forskning/desa/welcome-to-the-unit-of-energy-systems-analysis-kth-desa-1.197296)
