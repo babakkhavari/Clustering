@@ -2,6 +2,10 @@
 Script and data from: **Clusters in action - Assessing the urban-rural split and electrification in Sub-Saharan Africa** by Babak Khavari, Alexandros Korkovelos, Andeas Sahlberg, Francesco Fuso-Nerini and Mark Howells
 
 ## Content
+This repository contains:
+* An environment .yml file needed for generating a fully functioning python 3.7 environment necessary for the clustering algorithm.
+* The clustering code and related functions
+* An example case for Benin
 
 ## Setting up the environment & running the model
 
