@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/253060700.svg)](https://zenodo.org/badge/latestdoi/253060700)
 
 # Clustering
-Script and data from: **Clusters in action - Assessing the urban-rural split and electrification in Sub-Saharan Africa** by Babak Khavari, Alexandros Korkovelos, Andeas Sahlberg, Francesco Fuso-Nerini and Mark Howells. Datasets produced using the method described in the paper are available at: https://data.mendeley.com/datasets/z9zfhzk8cr
+Script and data from: **Clusters in action - Assessing the urban-rural split and electrification in Sub-Saharan Africa** by Babak Khavari, Alexandros Korkovelos, Andeas Sahlberg, Francesco Fuso-Nerini and Mark Howells. Datasets produced using the method described in the paper are available at: https://data.mendeley.com/datasets/z9zfhzk8cr.
 
 ## Content
 This repository contains:
