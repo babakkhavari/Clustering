@@ -26,7 +26,7 @@ The clustering module (as well as all supporting scripts in this repo) have been
 Once installed, open anaconda prompt and move to your local "clustering" directory using:
 
 ```
-> cd ..\clustering
+> cd ..\Clustering
 ```
 
 In order to be able to run the clustering tool (main.ipynb and funcs.ipynb) you have to install all necessary packages. "full_project.yml" contains all of these and can be easily set up by creating a new virtual environment using:
@@ -44,9 +44,10 @@ conda activate clustering
 With the environment activated, you can now move to the clustering directory and start a "jupyter notebook" session by simply typing:
 
 ```
-..\clustering> jupyter notebook 
+..\Clustering> jupyter notebook 
 ```
 ## Changelog
+**18-06-2020**: Original code base published
 
 ## Resources
 Original dataset can be found here: https://data.mendeley.com/datasets/z9zfhzk8cr/
