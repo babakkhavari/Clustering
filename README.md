@@ -9,7 +9,7 @@ This repository contains:
 * The clustering code and related functions
 * An example case for Benin
 
-## Setting up the environment & running the model
+## Installing and running the clustering notebook
 
 **Install from GitHub**
 
