@@ -47,7 +47,7 @@ With the environment activated, you can now move to the clustering directory and
 ..\Clustering> jupyter notebook 
 ```
 ## Changelog
-**18-06-2020**: Original code base published
+**dd-mm-yyyy**: Original code base published
 
 ## Resources
 Original dataset can be found here: https://data.mendeley.com/datasets/z9zfhzk8cr/
