@@ -11,20 +11,18 @@ This repository contains:
 
 ## Installing and running the clustering notebook
 
-**Install from GitHub**
-
-Download repository directly or clone it to you designated local directory using:
-
-```
-git clone https://github.com/babakkhavari/Clustering.git
-```
-
 **Requirements**
 
 The clustering module (as well as all supporting scripts in this repo) have been developed in Python 3. We recommend installing [Anaconda's free distribution](https://www.anaconda.com/distribution/) as suited for your operating system. 
 
-Once installed, open anaconda prompt and move to your local "clustering" directory using:
+**Install from GitHub**
+After installing Anaconda you can download the repository directly or clone it to your designated local directory using:
 
+```
+conda install git
+git clone https://github.com/babakkhavari/Clustering.git
+```
+Once installed, open anaconda prompt and move to your local "clustering" directory using:
 ```
 > cd ..\Clustering
 ```
@@ -47,7 +45,7 @@ With the environment activated, you can now move to the clustering directory and
 ..\Clustering> jupyter notebook 
 ```
 ## Changelog
-**dd-mm-yyyy**: Original code base published
+**5-April-2020**: Original code base published
 
 ## Resources
 Original dataset can be found here: https://data.mendeley.com/datasets/z9zfhzk8cr/
