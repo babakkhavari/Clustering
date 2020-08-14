@@ -15,7 +15,8 @@ This repository contains:
 
 The clustering module (as well as all supporting scripts in this repo) have been developed in Python 3. We recommend installing [Anaconda's free distribution](https://www.anaconda.com/distribution/) as suited for your operating system. 
 
-**Install the clustering repository from GitHub** <br\>
+**Install the clustering repository from GitHub**
+
 After installing Anaconda you can download the repository directly or clone it to your designated local directory using:
 
 ```
