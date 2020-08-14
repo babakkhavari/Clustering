@@ -20,8 +20,8 @@ The clustering module (as well as all supporting scripts in this repo) have been
 After installing Anaconda you can download the repository directly or clone it to your designated local directory using:
 
 ```
-conda install git
-git clone https://github.com/babakkhavari/Clustering.git
+> conda install git
+> git clone https://github.com/babakkhavari/Clustering.git
 ```
 Once installed, open anaconda prompt and move to your local "clustering" directory using:
 ```
