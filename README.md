@@ -6,8 +6,8 @@ Script and data from: **Assessing the urban-rural split and electrification in S
 ## Content
 This repository contains:
 * An environment .yml file needed for generating a fully functioning python 3.7 environment necessary for the clustering algorithm.
-* The clustering code and related functions
-* An example case for Benin
+* The clustering code and related functions. These files also contain necessary steps in order to reproduce results.
+* An example case for Benin.
 
 ## Installing and running the clustering notebook
 
