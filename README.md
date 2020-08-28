@@ -60,4 +60,4 @@ Journal article can be found here:
 **Validation:** [Babak Khavari](https://github.com/babakkhavari), [Alexandros Konrkovelos](https://github.com/akorkovelos) & [Andreas Sahlberg](https://github.com/AndreasSahlberg)<br />
 **Review:** [Francesco Fuso-Nerini](https://github.com/FFusoNerini), [Alexandros Konrkovelos](https://github.com/akorkovelos) & [Mark Howells](https://orcid.org/0000-0001-6419-4957)<br />
 **Supervision and Advisory support:** [Francesco Fuso-Nerini](https://github.com/FFusoNerini) & [Mark Howells](https://orcid.org/0000-0001-6419-4957)<br />
-**Funding:** The World Bank (contract number: 7185716), [KTH](https://www.kth.se/en/itm/inst/energiteknik/forskning/desa/welcome-to-the-unit-of-energy-systems-analysis-kth-desa-1.197296)
+
