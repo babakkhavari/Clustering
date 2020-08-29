@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/253060700.svg)](https://zenodo.org/badge/latestdoi/253060700) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/babakkhavari/Clustering)
 
 # Clustering
-Script and data from: **Assessing the urban-rural split and electrification in Sub-Saharan Africa  - a clusters-based methodology** by Babak Khavari, Alexandros Korkovelos, Andeas Sahlberg, Francesco Fuso-Nerini and Mark Howells. Datasets produced using the method described in the paper are available at: https://data.mendeley.com/datasets/z9zfhzk8cr.
+Script and data from: **Assessing the urban-rural split and electrification in Sub-Saharan Africa  - a cluster-based methodology** by Babak Khavari, Alexandros Korkovelos, Andeas Sahlberg, Francesco Fuso-Nerini and Mark Howells. Datasets produced using the method described in the paper are available at: https://data.mendeley.com/datasets/z9zfhzk8cr.
 
 ## Content
 This repository contains:
