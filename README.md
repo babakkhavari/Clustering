@@ -49,7 +49,7 @@ With the environment activated, you can now move to the clustering directory and
 **5-April-2020**: Original code base published
 
 ## Resources
-Original dataset can be found here: https://data.mendeley.com/datasets/z9zfhzk8cr/
+Original dataset can be found here: https://data.mendeley.com/datasets/z9zfhzk8cr
 
 Journal article can be found here:
 ## Credits
