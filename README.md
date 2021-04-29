@@ -51,7 +51,7 @@ With the environment activated, you can now move to the clustering directory and
 ## Resources
 Original dataset can be found here: https://data.mendeley.com/datasets/z9zfhzk8cr
 
-Journal article can be found here: https://www.nature.com/articles/s41597-021-00897-9#Sec19
+Journal article can be found here: https://www.nature.com/articles/s41597-021-00897-9
 ## Credits
 
 **Conceptualization:** [Babak Khavari](https://github.com/babakkhavari) & [Francesco Fuso-Nerini](https://github.com/FFusoNerini)<br />
