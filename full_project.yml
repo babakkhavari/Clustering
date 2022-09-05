@@ -8,7 +8,5 @@ dependencies:
   - rasterstats
   - tk
   - json 
-  - jupyterlab
-  - ipywidgets 
+  - jupyterlab 
   - gdal
-  - nbformat
