@@ -127,3 +127,23 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Benin example case/Inputs/gadm36_BEN_1.cpg
+Benin example case/Inputs/gadm36_BEN_1.dbf
+Benin example case/Inputs/gadm36_BEN_1.prj
+Benin example case/Inputs/gadm36_BEN_1.shp
+Benin example case/Inputs/gadm36_BEN_1.shx
+Benin example case/Inputs/ntl.tif
+Benin example case/Inputs/population_ben_2019-07-01.tif
+Benin example case/Outputs/BeninNTL.tif
+Benin example case/Outputs/BeninPop.tif
+Benin example case/Outputs/clusters.dbf
+Benin example case/Outputs/clusters.prj
+Benin example case/Outputs/clusters.shp
+Benin example case/Outputs/clusters.shx
+Benin example case/Outputs/NTLArea.dbf
+Benin example case/Outputs/NTLArea.prj
+Benin example case/Outputs/NTLArea.shp
+Benin example case/Outputs/NTLArea.shx
+Benin example case/Outputs/raster_admin.tif
+Benin example case/Outputs/rasterBase.tif
+Benin example case/Outputs/clusters.cpg
