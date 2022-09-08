@@ -47,6 +47,7 @@ With the environment activated, you can now move to the clustering directory and
 ```
 ## Changelog
 **5-April-2020**: Original code base published
+**8-Sept-2022**: Simplified the installation file, this simplifies installtion on MacOS
 
 ## Resources
 Original dataset can be found here: https://data.mendeley.com/datasets/z9zfhzk8cr
